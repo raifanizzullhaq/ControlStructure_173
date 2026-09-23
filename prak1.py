@@ -1,0 +1,13 @@
+grade=int(input("masukkan grade:")
+
+if grade >=90:
+    print ("Excellent performance")
+elif grade >=80:
+    print ("Very good performance")
+elif grade >=70:
+    print ("good performance")
+elif grade >=60:
+    print ("Average performance")
+else:
+    print ("Poor performance")
+    
